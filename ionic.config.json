@@ -1,0 +1,7 @@
+{
+  "name": "sql-lite-cordova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
